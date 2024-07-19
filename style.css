@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: indigo;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: crimson;
+}
