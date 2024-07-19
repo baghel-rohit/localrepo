@@ -1,7 +1,4 @@
 body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color: indigo;
 }
 
@@ -17,8 +14,15 @@ h2{
     color: crimson;
 }
 
-button{
+h3{
     font-family: 'Courier New', Courier, monospace;
     font-style: italic;
     color: crimson;
+}
+
+button{
+    font-family: poppins;
+    font-weight: bold;
+    color: crimson;
+    padding: 15px;
 }
